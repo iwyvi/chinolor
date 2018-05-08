@@ -1,0 +1,22 @@
+{
+    "name": "chinolor",
+    "displayName": "Chinolor Theme",
+    "description": "A theme based on chinese traditional color.",
+    "version": "0.0.1",
+    "publisher": "iwyvi",
+    "engines": {
+        "vscode": "^1.23.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Chinolor",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Chinolor-color-theme.json"
+            }
+        ]
+    }
+}
