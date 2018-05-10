@@ -71,7 +71,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#63bbd0" // 霁青
+        "foreground": "#8abcd1" // 秋波蓝
       }
     },
     {
@@ -221,7 +221,7 @@
       "name": "Inserted",
       "scope": ["markup.inserted"],
       "settings": {
-        "foreground": "#63bbd0"
+        "foreground": "#8abcd1"
       }
     },
     {
@@ -285,7 +285,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#63bbd0" // 瀑布蓝
+        "foreground": "#8abcd1" // 瀑布蓝
       }
     },
     {
@@ -358,7 +358,7 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#63bbd0"
+        "foreground": "#8abcd1"
       }
     },
     {
@@ -487,7 +487,7 @@
     {
       "scope": "token.info-token",
       "settings": {
-        "foreground": "#63bbd0"
+        "foreground": "#8abcd1"
       }
     },
     {
