@@ -2,17 +2,16 @@
   "name": "Chinolor",
   "type": "dark",
   "colors": {
-    "editor.background": "#2b312c", // 槲寄生绿
-    "editor.foreground": "#e4dfd7", // 珍珠灰
-    "sideBarTitle.foreground": "#e4dfd7", 
+    "editor.background": "#2b312c",
+    "editor.foreground": "#e4dfd7",
+    "sideBarTitle.foreground": "#e4dfd7",
     "scrollbar.shadow": "#000000",
     "editorCursor.foreground": "#e4dfd7",
-    "editor.selectionBackground": "#474b4c", // 黄昏灰
+    "editor.selectionBackground": "#474b4c",
     "editor.wordHighlightBackground": "#474b4c",
     "editor.wordHighlightStrongBackground": "#474b4c",
     "editor.lineHighlightBackground": "#1a241e",
     "editor.lineHighlightBorder": "#1a241e",
-    "activityBarBadge.background": "#1781b5", // 釉蓝
     "activityBar.background": "#2b302b",
     "sideBar.background": "#1e201f",
     "statusBar.background": "#134857",
@@ -24,7 +23,7 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#617172" // 夏云灰
+        "foreground": "#617172"
       }
     },
     {
@@ -38,14 +37,14 @@
       "name": "Invalid",
       "scope": ["invalid", "invalid.illegal"],
       "settings": {
-        "foreground": "#ee3f4d" // 茶花红
+        "foreground": "#ee3f4d"
       }
     },
     {
       "name": "Keyword, Storage",
       "scope": ["keyword", "storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#d276a3" // 菱锰红
+        "foreground": "#d276a3"
       }
     },
     {
@@ -53,25 +52,25 @@
       "scope": [
         "keyword.control",
         "constant.other.color",
-        "meta.tag",
         "keyword.other.template",
         "keyword.other.substitution"
       ],
       "settings": {
-        "foreground": "#57c3c2" // 石绿
+        "foreground": "#57c3c2"
       }
     },
     {
       "name": "Function, Special Method",
       "scope": [
         "entity.name.function",
+        "entity.name.method",
         "meta.function-call",
         "variable.function",
         "support.function",
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#8abcd1" // 秋波蓝
+        "foreground": "#8abcd1"
       }
     },
     {
@@ -87,7 +86,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#fb9968" // 野蔷薇红
+        "foreground": "#fb9968"
       }
     },
     {
@@ -102,14 +101,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#f9d367" // 淡密黄
-      }
-    },
-    {
-      "name": "Boolean",
-      "scope": "constant.language.boolean",
-      "settings": {
-        "foreground": "#ef6f48"
+        "foreground": "#f9d367"
       }
     },
     {
@@ -120,11 +112,23 @@
         "support.orther.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
-        "markup.changed.git_gutter",
-        "support.type.sys-types"
+        "markup.changed.git_gutter"
       ],
       "settings": {
-        "foreground": "#f07c82" // 香叶红
+        "foreground": "#96c24e"
+      }
+    },
+    {
+      "scope": ["entity.name.type"],
+      "settings": {
+        "foreground": "#96c24e",
+        "fontStyle": "underline"
+      }
+    },
+    {
+      "scope": ["entity.name.tag", "entity.name.section"],
+      "settings": {
+        "foreground": "#f07c82"
       }
     },
     {
@@ -132,6 +136,16 @@
       "scope": ["support.type"],
       "settings": {
         "foreground": "#96c24e"
+      }
+    },
+    {
+      "scope": [
+        "variable.other.property",
+        "support.variable.property",
+        "meta.object-literal.key"
+      ],
+      "settings": {
+        "foreground": "#f07c82"
       }
     },
     {
@@ -151,12 +165,12 @@
     {
       "name": "Sub-methods",
       "scope": [
-        "entity.name.module.js",
-        "variable.import.parameter.js",
-        "variable.other.class.js"
+        "entity.name.module",
+        "variable.import.parameter",
+        "variable.other.class"
       ],
       "settings": {
-        "foreground": "#eea6b7" // 晶红
+        "foreground": "#eea6b7"
       }
     },
     {
@@ -168,53 +182,24 @@
       }
     },
     {
-      "name": "entity.name.method.js",
-      "scope": ["entity.name.method.js"],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#619ac3"
-      }
-    },
-    {
-      "name": "meta.method.js",
-      "scope": [
-        "meta.class-method.js entity.name.function.js",
-        "variable.function.constructor"
-      ],
-      "settings": {
-        "foreground": "#619ac3"
-      }
-    },
-    {
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#c8adc4" // 凤信紫
-      }
-    },
-    {
-      "name": "HTML Attributes",
-      "scope": [
-        "text.html.basic entity.other.attribute-name.html",
-        "text.html.basic entity.other.attribute-name"
-      ],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#f9d367"
+        "foreground": "#c8adc4"
       }
     },
     {
       "name": "CSS ID",
       "scope": ["entity.other.attribute-name.id"],
       "settings": {
-        "foreground": "#5dbe8a"
+        "foreground": "#8abcd1"
       }
     },
     {
-      "name": "CSS Classes",
-      "scope": ["entity.other.attribute-name.class"],
+      "name": "CSS !important",
+      "scope": ["keyword.other.important.css"],
       "settings": {
-        "foreground": "#f9d367"
+        "foreground": "#ee3f4d"
       }
     },
     {
@@ -242,7 +227,7 @@
       "name": "Regular Expressions",
       "scope": ["string.regexp"],
       "settings": {
-        "foreground": "#5dbe8a" // 蔻梢绿
+        "foreground": "#5dbe8a"
       }
     },
     {
@@ -260,17 +245,6 @@
       }
     },
     {
-      "name": "Decorators",
-      "scope": [
-        "tag.decorator.js entity.name.tag.js",
-        "tag.decorator.js punctuation.definition.tag.js"
-      ],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#82AAFF"
-      }
-    },
-    {
       "name": "JSON Key - Level 0",
       "scope": [
         "source.json meta.structure.dictionary.json support.type.property-name.json"
@@ -285,7 +259,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#8abcd1" // 瀑布蓝
+        "foreground": "#8abcd1"
       }
     },
     {
@@ -294,7 +268,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#fc7930" // 菠萝红
+        "foreground": "#fc7930"
       }
     },
     {
@@ -303,7 +277,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#96c24e" // 芽绿
+        "foreground": "#96c24e"
       }
     },
     {
@@ -312,7 +286,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#ef82a0" // 霞光红
+        "foreground": "#f07c92"
       }
     },
     {
@@ -321,7 +295,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#619ac3" // 羽扇豆蓝
+        "foreground": "#619ac3"
       }
     },
     {
@@ -336,7 +310,10 @@
     },
     {
       "name": "Markdown - Markup Raw Inline",
-      "scope": ["text.html.markdown markup.inline.raw.markdown"],
+      "scope": [
+        "text.html.markdown markup.inline.raw.markdown",
+        "markup.inline.raw.string.markdown"
+      ],
       "settings": {
         "foreground": "#c8adc4"
       }
@@ -366,7 +343,7 @@
       "scope": ["markup.italic"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f07178"
+        "foreground": "#f07c82"
       }
     },
     {
@@ -374,7 +351,7 @@
       "scope": ["markup.bold", "markup.bold string"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f07178"
+        "foreground": "#f07c82"
       }
     },
     {
@@ -389,7 +366,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f07178"
+        "foreground": "#f07c82"
       }
     },
     {
@@ -404,8 +381,7 @@
       "name": "Markup - Quote",
       "scope": ["markup.quote"],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": ""
+        "fontStyle": "italic"
       }
     },
     {
@@ -474,7 +450,7 @@
       "settings": {
         "fontStyle": "bold",
         "background": "#00000050",
-        "foreground": "#8a988e" // 明灰
+        "foreground": "#8a988e"
       }
     },
     {
@@ -505,7 +481,7 @@
     {
       "scope": "token.debug-token",
       "settings": {
-        "foreground": "#ef82a0"
+        "foreground": "#f07c92"
       }
     }
   ]
