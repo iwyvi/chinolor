@@ -1,13 +1,21 @@
-# README
-## This is the README for your extension "chinolor"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Chinolor Theme
+## For Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+A VSCode theme based on chinese traditional color.
+
+使用中国传统颜色的VSCode主题。
+
+### Screenshot
+
+![screenshot](https://s1.ax1x.com/2018/05/12/CBMNBF.png)
+
+### Color scheme
+
+![scheme](https://s1.ax1x.com/2018/05/12/CBMtnU.png)
+
+Color reference: [CHINESE COLORS](http://zhongguose.com/)
 
 ### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+* [GitHub](https://github.com/IwYvI/chinolor)
 
 **Enjoy!**
