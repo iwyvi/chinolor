@@ -13,6 +13,8 @@ A VSCode theme based on chinese traditional color.
 
 ![scheme](https://s1.ax1x.com/2018/05/12/CBMtnU.png)
 
+![scheme-light](https://s1.ax1x.com/2018/05/15/Cs1QRH.png)
+
 Color reference: [CHINESE COLORS](http://zhongguose.com/)
 
 ### For more information
