@@ -21,6 +21,11 @@
                 "label": "Chinolor",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Chinolor-color-theme.json"
+            },
+            {
+                "label": "Chinolor Light",
+                "uiTheme": "vs",
+                "path": "./themes/Chinolor-light-color-theme.json"
             }
         ]
     }
