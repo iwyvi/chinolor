@@ -55,7 +55,8 @@
         "keyword.control",
         "constant.other.color",
         "keyword.other.template",
-        "keyword.other.substitution"
+        "keyword.other.substitution",
+        "keyword.other.unit"
       ],
       "settings": {
         "foreground": "#12aa9c"
@@ -84,7 +85,6 @@
         "constant.character",
         "constant.escape",
         "variable.parameter",
-        "keyword.other.unit",
         "keyword.other"
       ],
       "settings": {
@@ -199,9 +199,16 @@
     },
     {
       "name": "CSS !important",
-      "scope": ["keyword.other.important.css"],
+      "scope": ["keyword.other.important"],
       "settings": {
         "foreground": "#ee3f4d"
+      }
+    },
+    {
+      "name": "CSS Media",
+      "scope": ["support.type.property-name.media"],
+      "settings": {
+        "foreground": "#41ae3c"
       }
     },
     {
