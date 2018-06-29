@@ -11,9 +11,9 @@ A VSCode theme based on chinese traditional color.
 
 ### Color scheme
 
-![scheme](https://s1.ax1x.com/2018/05/12/CBMtnU.png)
+![scheme-dark](https://s1.ax1x.com/2018/06/29/Piq7lj.png)
 
-![scheme-light](https://s1.ax1x.com/2018/05/31/CIA5p8.png)
+![scheme-light](https://s1.ax1x.com/2018/06/29/PiqH6s.png)
 
 Color reference: [CHINESE COLORS](http://zhongguose.com/)
 

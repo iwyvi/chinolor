@@ -159,7 +159,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#e4dfd7"
+        "foreground": "#8abcd1"
       }
     },
     {
@@ -192,7 +192,7 @@
       "name": "CSS ID",
       "scope": ["entity.other.attribute-name.id"],
       "settings": {
-        "foreground": "#8abcd1"
+        "foreground": "#5dbe8a"
       }
     },
     {
@@ -331,7 +331,7 @@
         "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
       ],
       "settings": {
-        "foreground": "#8a988e"
+        "foreground": "#474b4c"
       }
     },
     {
@@ -451,7 +451,7 @@
       "name": "Markdown - Fenced Language",
       "scope": ["variable.language.fenced.markdown"],
       "settings": {
-        "foreground": "#8a988e"
+        "foreground": "#474b4c"
       }
     },
     {
@@ -460,7 +460,7 @@
       "settings": {
         "fontStyle": "bold",
         "background": "#00000050",
-        "foreground": "#8a988e"
+        "foreground": "#474b4c"
       }
     },
     {

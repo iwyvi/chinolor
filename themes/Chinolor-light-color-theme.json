@@ -161,7 +161,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#2b312c"
+        "foreground": "#1781b5"
       }
     },
     {
@@ -194,7 +194,7 @@
       "name": "CSS ID",
       "scope": ["entity.other.attribute-name.id"],
       "settings": {
-        "foreground": "#1781b5"
+        "foreground": "#207f4c"
       }
     },
     {
