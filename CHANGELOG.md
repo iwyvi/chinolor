@@ -1,3 +1,8 @@
+## Version 0.2.6(2018-09-05)
+
+- Fix an error in scheme-light image.
+- Add color palette images.
+
 ## Version 0.2.5(2018-06-29)
 
 - Change the color of css property name: dark theme(#e4dfd7 => #8abcd1), light theme(#2b312c => #1781b5)
