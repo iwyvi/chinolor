@@ -1,3 +1,7 @@
+## Version 0.2.7(2018-09-07)
+
+- Add support to integrated terminal.
+
 ## Version 0.2.6(2018-09-05)
 
 - Fix an error in scheme-light image.

@@ -16,7 +16,23 @@
     "sideBar.background": "#1e201f",
     "statusBar.background": "#134857",
     "statusBar.noFolderBackground": "#2e317c",
-    "statusBar.debuggingBackground": "#c1651a"
+    "statusBar.debuggingBackground": "#c1651a",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiBlue": "#619ac3",
+    "terminal.ansiCyan": "#57c3c2",
+    "terminal.ansiGreen": "#96c24e",
+    "terminal.ansiMagenta": "#d276a3",
+    "terminal.ansiRed": "#ee3f4d",
+    "terminal.ansiWhite": "#e4dfd7",
+    "terminal.ansiYellow": "#f9d367",
+    "terminal.ansiBrightBlack": "#2b312c",
+    "terminal.ansiBrightBlue": "#619ac3",
+    "terminal.ansiBrightCyan": "#12aa9c",
+    "terminal.ansiBrightGreen": "#41ae3c",
+    "terminal.ansiBrightMagenta": "#cc5595",
+    "terminal.ansiBrightRed": "#ee3f4d",
+    "terminal.ansiBrightWhite": "#f8f4ed",
+    "terminal.ansiBrightYellow": "#b78d12"
   },
   "tokenColors": [
     {
@@ -459,7 +475,6 @@
       "scope": ["meta.separator"],
       "settings": {
         "fontStyle": "bold",
-        "background": "#00000050",
         "foreground": "#474b4c"
       }
     },
