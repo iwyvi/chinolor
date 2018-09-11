@@ -4,3 +4,6 @@
 vsc-extension-quickstart.md
 
 node_modules
+
+*.png
+!icon.png
