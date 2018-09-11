@@ -1,32 +1,43 @@
 {
-    "name": "chinolor",
-    "displayName": "Chinolor Theme",
-    "description": "A VSCode theme based on Chinese traditional color.",
-    "version": "0.2.8",
-    "publisher": "iwyvi",
-    "engines": {
-        "vscode": "^0.10.10"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/IwYvI/chinolor"
-    },
-    "icon": "icon.png",
-    "contributes": {
-        "themes": [
-            {
-                "label": "Chinolor",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Chinolor-color-theme.json"
-            },
-            {
-                "label": "Chinolor Light",
-                "uiTheme": "vs",
-                "path": "./themes/Chinolor-light-color-theme.json"
-            }
-        ]
-    }
+  "name": "chinolor",
+  "displayName": "Chinolor Theme",
+  "description": "A VSCode theme based on Chinese traditional color.",
+  "version": "0.2.8",
+  "publisher": "iwyvi",
+  "license": "MIT",
+  "scripts": {
+    "commitmsg": "commitlint -E GIT_PARAMS"
+  },
+  "engines": {
+    "vscode": "^0.10.10"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IwYvI/chinolor"
+  },
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chinolor",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chinolor-color-theme.json"
+      },
+      {
+        "label": "Chinolor Light",
+        "uiTheme": "vs",
+        "path": "./themes/Chinolor-light-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.1.2",
+    "husky": "^0.14.3"
+  },
+  "dependencies": {
+    "@commitlint/config-conventional": "^7.1.2"
+  }
 }
