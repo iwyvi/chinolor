@@ -1,7 +1,7 @@
 {
     "name": "chinolor",
     "displayName": "Chinolor Theme",
-    "description": "A VSCode theme based on chinese traditional color.",
+    "description": "A VSCode theme based on Chinese traditional color.",
     "version": "0.2.8",
     "publisher": "iwyvi",
     "engines": {

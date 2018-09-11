@@ -1,7 +1,7 @@
 # Chinolor Theme
 ## For Visual Studio Code
 
-A VSCode theme based on chinese traditional color.
+A VSCode theme based on Chinese traditional color.
 
 使用中国传统颜色的VSCode主题。
 
