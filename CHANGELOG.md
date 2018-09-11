@@ -1,3 +1,7 @@
+## Version 0.2.8(2018-09-11)
+
+- Ignore images when packaging extension.
+
 ## Version 0.2.7(2018-09-07)
 
 - Add support to integrated terminal.
