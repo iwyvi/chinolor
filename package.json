@@ -5,8 +5,10 @@
   "version": "0.2.9",
   "publisher": "iwyvi",
   "license": "MIT",
-  "scripts": {
-    "commitmsg": "commitlint -E GIT_PARAMS"
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
   },
   "engines": {
     "vscode": "^0.10.10"
@@ -34,10 +36,8 @@
     ]
   },
   "devDependencies": {
-    "@commitlint/cli": "^7.1.2",
-    "husky": "^0.14.3"
-  },
-  "dependencies": {
-    "@commitlint/config-conventional": "^7.1.2"
+    "@commitlint/cli": "^7.5.0",
+    "@commitlint/config-conventional": "^7.5.0",
+    "husky": "^1.3.1"
   }
 }
