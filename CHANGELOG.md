@@ -1,3 +1,7 @@
+## Version 0.2.10(2019-03-20)
+
+- Change the color of terminal.ansiBrightBlack(#2b312c => #8a988e), which ever made arguments in powershell invisible.
+
 ## Version 0.2.8(2018-09-11)
 
 - Ignore images when packaging extension.
