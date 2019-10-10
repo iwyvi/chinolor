@@ -7,3 +7,6 @@ node_modules
 
 *.png
 !icon.png
+
+.wakatime-project
+commitlint.config.js
