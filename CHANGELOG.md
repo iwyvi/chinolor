@@ -1,3 +1,7 @@
+## Version 0.2.11(2019-10-10)
+
+- Change `minimap.selectionHighlight` color.
+
 ## Version 0.2.10(2019-03-20)
 
 - Change the color of terminal.ansiBrightBlack(#2b312c => #8a988e), which ever made arguments in powershell invisible.
