@@ -19,6 +19,7 @@
     "statusBar.foreground": "#2b312c",
     "statusBar.noFolderBackground": "#d1c2d3",
     "statusBar.debuggingBackground": "#f8b37f",
+    "minimap.selectionHighlight": "#c7d2d4",
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#619ac3",
     "terminal.ansiCyan": "#57c3c2",
