@@ -1,3 +1,7 @@
+## Version 0.2.12(2019-11-09)
+
+- Change `activityBar.activeBorder` color.
+
 ## Version 0.2.11(2019-10-10)
 
 - Change `minimap.selectionHighlight` color.
