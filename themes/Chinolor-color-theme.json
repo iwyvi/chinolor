@@ -13,6 +13,7 @@
     "editor.lineHighlightBackground": "#1a241e",
     "editor.lineHighlightBorder": "#1a241e",
     "activityBar.background": "#2b302b",
+    "activityBar.activeBorder": "#e4dfd7",
     "sideBar.background": "#1e201f",
     "statusBar.background": "#134857",
     "statusBar.noFolderBackground": "#2e317c",
