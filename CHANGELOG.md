@@ -1,3 +1,7 @@
+## Version 0.2.13(2020-03-11)
+
+- Support semantic highlighting.
+
 ## Version 0.2.12(2019-11-09)
 
 - Change `activityBar.activeBorder` color.
