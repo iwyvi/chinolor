@@ -126,16 +126,9 @@
     },
     {
       "name": "Class, Support",
-      "scope": [
-        "entity.name",
-        "support.class",
-        "support.orther.namespace.use.php",
-        "meta.use.php",
-        "support.other.namespace.php",
-        "markup.changed.git_gutter"
-      ],
+      "scope": ["entity.name"],
       "settings": {
-        "foreground": "#41ae3c"
+        "foreground": "#1781b5"
       }
     },
     {
@@ -153,7 +146,14 @@
     },
     {
       "name": "Entity Types",
-      "scope": ["support.type"],
+      "scope": [
+        "support.type",
+        "support.class",
+        "support.orther.namespace.use.php",
+        "meta.use.php",
+        "support.other.namespace.php",
+        "markup.changed.git_gutter"
+      ],
       "settings": {
         "foreground": "#41ae3c"
       }
