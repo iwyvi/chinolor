@@ -1,3 +1,15 @@
+## Version 0.2.14(2020-03-22)
+
+- Enable semantic highlighting by default.
+
+WANT TO DISABLE ?
+
+Change this configuration:
+
+```
+"editor.semanticHighlighting.enabled": false
+```
+
 ## Version 0.2.13(2020-03-11)
 
 - Support semantic highlighting.
