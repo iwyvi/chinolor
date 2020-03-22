@@ -1,6 +1,7 @@
 {
   "name": "Chinolor Light",
   "type": "light",
+  "semanticHighlighting": true,
   "colors": {
     "editor.background": "#f8f4ed",
     "editor.foreground": "#2b312c",
@@ -149,7 +150,7 @@
       "scope": [
         "support.type",
         "support.class",
-        "support.orther.namespace.use.php",
+        "support.other.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter"
