@@ -4,10 +4,23 @@
 
 WANT TO DISABLE ?
 
-Change this configuration:
+Change this configuration to disable semantic highlighting for all themes:
 
 ```
 "editor.semanticHighlighting.enabled": false
+```
+
+Or change this configuration to disable only for chinolor:
+
+```
+"editor.tokenColorCustomizations": {
+  "[Chinolor]": {
+    "semanticHighlighting": false
+  },
+  "[Chinolor Light]": {
+    "semanticHighlighting": false
+  }
+}
 ```
 
 ## Version 0.2.13(2020-03-11)
