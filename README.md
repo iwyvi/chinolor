@@ -24,6 +24,6 @@ Color reference: [CHINESE COLORS](http://zhongguose.com/)
 ![palette-light](https://s1.ax1x.com/2018/09/05/iposoV.png)
 
 ### For more information
-* [GitHub](https://github.com/IwYvI/chinolor)
+* [GitHub](https://github.com/iwyvi/chinolor)
 
 **Enjoy!**
