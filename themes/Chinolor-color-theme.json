@@ -35,7 +35,8 @@
     "terminal.ansiBrightMagenta": "#cc5595",
     "terminal.ansiBrightRed": "#ee3f4d",
     "terminal.ansiBrightWhite": "#f8f4ed",
-    "terminal.ansiBrightYellow": "#b78d12"
+    "terminal.ansiBrightYellow": "#b78d12",
+    "statusBarItem.prominentBackground": "#25252575"
   },
   "tokenColors": [
     {

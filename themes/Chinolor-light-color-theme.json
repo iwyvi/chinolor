@@ -6,7 +6,7 @@
     "editor.background": "#f8f4ed",
     "editor.foreground": "#2b312c",
     "sideBarTitle.foreground": "#2b312c",
-    "scrollbar.shadow": "#000000",
+    "scrollbar.shadow": "#a4aca7",
     "editorCursor.foreground": "#2b312c",
     "editor.selectionBackground": "#c7d2d4",
     "editor.wordHighlightBackground": "#c7d2d4",
@@ -37,7 +37,10 @@
     "terminal.ansiBrightMagenta": "#cc5595",
     "terminal.ansiBrightRed": "#ee3f4d",
     "terminal.ansiBrightWhite": "#f8f4ed",
-    "terminal.ansiBrightYellow": "#b78d12"
+    "terminal.ansiBrightYellow": "#b78d12",
+    "list.activeSelectionBackground": "#0066BF",
+    "list.focusHighlightForeground": "#9DDDFF",
+    "statusBarItem.prominentBackground": "#7b7b7b62"
   },
   "tokenColors": [
     {
