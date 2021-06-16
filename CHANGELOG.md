@@ -1,3 +1,9 @@
+## Version 0.2.15(2021-06-16)
+
+- Change `list.focusHighlightForeground` in light mode (#5).
+- Update `statusBarItem.prominentBadgeColor`, support workspace trust badge.
+- Fix `scrollbar.shadow` in light mode 
+
 ## Version 0.2.14(2020-03-22)
 
 - Enable semantic highlighting by default.
