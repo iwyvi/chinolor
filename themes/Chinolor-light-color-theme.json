@@ -13,6 +13,7 @@
     "editor.wordHighlightStrongBackground": "#c7d2d4",
     "editor.lineHighlightBackground": "#e7e3db",
     "editor.lineHighlightBorder": "#e7e3db",
+    "editorIndentGuide.activeBackground": "#8a988e",
     "activityBar.background": "#f3efe8",
     "activityBar.foreground": "#2b312c",
     "activityBar.activeBorder": "#2b312c",
