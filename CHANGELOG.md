@@ -1,3 +1,7 @@
+## Version 0.2.16(2021-07-20)
+
+- Support `editorIndentGuide.activeBackground`
+
 ## Version 0.2.15(2021-06-16)
 
 - Change `list.focusHighlightForeground` in light mode (#5).
