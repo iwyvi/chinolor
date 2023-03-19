@@ -1,3 +1,13 @@
+## Version 0.2.17(2023-03-19)
+
+- Dark mode:
+  - Optimize `editorBracketHighlight` color.
+  - Add `tab.activeBorderTop` and change `tab.inactiveBackground` in order to make current tab more distinguishable.
+
+-Light mode:
+  - Improve the readability of search results.
+  - Optimize `editorBracketHighlight` color.
+
 ## Version 0.2.16(2021-07-20)
 
 - Support `editorIndentGuide.activeBackground`
