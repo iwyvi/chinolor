@@ -13,6 +13,7 @@
     "editor.wordHighlightStrongBackground": "#474b4c",
     "editor.lineHighlightBackground": "#1a241e",
     "editor.lineHighlightBorder": "#1a241e",
+    "editor.linkedEditingBackground": "#c1651a66",
     "editorIndentGuide.activeBackground": "#617172",
     "editorBracketHighlight.foreground3": "#87CEFA",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ee3f4d",

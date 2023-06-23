@@ -16,6 +16,7 @@
     "editor.findMatchBackground": "#d3ccccee",
     "editor.findMatchHighlightBackground": "#f8b37f55",
     "editor.rangeHighlightBackground": "#f8e8c188",
+    "editor.linkedEditingBackground": "#f8b37f66",
     "editorIndentGuide.activeBackground": "#8a988e",
     "editorBracketHighlight.foreground1": "#b78d12",
     "editorBracketHighlight.foreground2": "#873680",
