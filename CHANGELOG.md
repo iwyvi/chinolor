@@ -1,3 +1,7 @@
+## Version 0.2.18(2023-06-23)
+
+- Support `editor.linkedEditingBackground`
+
 ## Version 0.2.17(2023-03-19)
 
 - Dark mode:
