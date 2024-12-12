@@ -1,3 +1,10 @@
+## Version 0.2.19(2024-12-12)
+
+- Support `git.blame.editorDecorationForeground`
+
+- Dark mode:
+  - Optimize `tab.activeBorderTop` color.
+
 ## Version 0.2.18(2023-06-23)
 
 - Support `editor.linkedEditingBackground`

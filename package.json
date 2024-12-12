@@ -2,7 +2,7 @@
   "name": "chinolor",
   "displayName": "Chinolor Theme",
   "description": "A VSCode theme based on Chinese traditional color.",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "publisher": "iwyvi",
   "license": "MIT",
   "engines": {
