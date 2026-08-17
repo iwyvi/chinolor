@@ -1,0 +1,16 @@
+CHANGELOG.md
+  h_e72567fa4e92de 1-5
+package.json
+  h_e72567fa4e92de 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "eb9688a031bc85dd8023fb7a175f5b455e0df561",
+  "prompts": {},
+  "humans": {
+    "h_e72567fa4e92de": {
+      "author": "iwyvi <iwyvi@outlook.com>"
+    }
+  }
+}
