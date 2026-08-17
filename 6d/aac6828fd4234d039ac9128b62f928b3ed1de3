@@ -1,0 +1,16 @@
+themes/Chinolor-color-theme.json
+  h_e72567fa4e92de 8-9,24
+themes/Chinolor-light-color-theme.json
+  h_e72567fa4e92de 8-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "6daac6828fd4234d039ac9128b62f928b3ed1de3",
+  "prompts": {},
+  "humans": {
+    "h_e72567fa4e92de": {
+      "author": "iwyvi <iwyvi@outlook.com>"
+    }
+  }
+}
